@@ -12,3 +12,8 @@ There’s one thing to note: as you can tell from my age, I’m in college, and 
 
 
 <img alt="" class="iFOUS5" draggable="false" fetchpriority="high" loading="auto" elementtiming="closeup-image-main-MainPinImage" srcset="https://i.pinimg.com/736x/20/b2/cc/20b2cce71ddbcb4076986829999cc82d.jpg 736w, https://i.pinimg.com/1200x/20/b2/cc/20b2cce71ddbcb4076986829999cc82d.jpg 960w" src="https://i.pinimg.com/736x/20/b2/cc/20b2cce71ddbcb4076986829999cc82d.jpg" style="-webkit-user-drag: none;">
+
+
+MY LOCATION!!!
+
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://cdn.discordapp.com/attachments/878208341501960224/1549716218846388264/image.png?ex=6aabb532&amp;is=6aaa63b2&amp;hm=26bc079638260cca1e69befb82cb32d4f4d730d7100a818074f030033ad0b29b&amp;" width="939" height="558">
