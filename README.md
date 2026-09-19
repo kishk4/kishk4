@@ -20,7 +20,7 @@ MY LOCATION!!!
 
 + TWO LOCATION
 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://cdn.discordapp.com/attachments/878208341501960224/1550755453485457478/image.png?ex=6aaf7d0f&amp;is=6aae2b8f&amp;hm=26aa6b2f3e93acac87df5619e0bcac383b3d5a0d337d9fb1b18267d381406842&amp;">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://cdn.discordapp.com/attachments/878208341501960224/1550755820759810138/image.png?ex=6aaf7d67&amp;is=6aae2be7&amp;hm=3cc1f318c82bc4f0242bc5063c4e13e438da73e401bde102810e602f84da5351&amp;">
 
 MY ROBLOX ACC!!!
 
