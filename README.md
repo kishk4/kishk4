@@ -18,6 +18,10 @@ MY LOCATION!!!
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://cdn.discordapp.com/attachments/878208341501960224/1549716218846388264/image.png?ex=6aabb532&amp;is=6aaa63b2&amp;hm=26bc079638260cca1e69befb82cb32d4f4d730d7100a818074f030033ad0b29b&amp;" width="939" height="558">
 
++ TWO LOCATION
+
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://cdn.discordapp.com/attachments/878208341501960224/1550755453485457478/image.png?ex=6aaf7d0f&amp;is=6aae2b8f&amp;hm=26aa6b2f3e93acac87df5619e0bcac383b3d5a0d337d9fb1b18267d381406842&amp;">
+
 MY ROBLOX ACC!!!
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://cdn.discordapp.com/attachments/878208341501960224/1550416224742285394/image.png?ex=6aae4121&amp;is=6aacefa1&amp;hm=a74b7ae0b2de11815ea9257075febd97e2fc88eeea187b15da65e2a530e56eb7&amp;" width="939" height="549">
